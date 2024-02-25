@@ -1,0 +1,6 @@
+// program of sum of two numbers taking inputs from user.
+
+a=int(input("enter number 1: "))
+b=int(input("enter number 2: "))
+c=a+b;
+print("sum of two inputs are: ",c)
