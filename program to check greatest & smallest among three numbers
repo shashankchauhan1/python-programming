@@ -10,7 +10,7 @@ elif n2>n1 and n2>n3:
 elif n3>n1 and n3>n2:
     print("number 3 is greater")
 
-
+// program to print smallest among three numbers
 
 n1=int(input("enter a number1: "))
 n2=int(input("enter a number2: "))
