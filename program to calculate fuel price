@@ -1,1 +1,10 @@
 // program to calculate total fuel price, the distance, vehicle mileage and fuel price per litre is given.
+
+
+fuel_price=float(input("enter fuel price: "))
+distance=float(input("enter distance (Km): "))
+veh_mil=float(input("enter vehicle mileage: "))
+
+total_fuel=(distance/veh_mil)*fuel_price
+
+print("total fuel cost: ",total_fuel);
