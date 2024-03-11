@@ -1,6 +1,6 @@
-1> arithmetic operator
-2> assignment operator
-3> comparison operator
-4> logical operator
-5> identify operator
-6> membership operator
+1> arithmetic operator   :  +(add),  -(subtract),   *(multiply),   /(divide),   %(modulus)
+2> assignment operator   :  =,   +=,    -=,    *=,    /=
+3> comparison operator   :  ==,    <=,    >=,    <,    >
+4> logical operator      :  &&(and),    ||(or),    !(not)
+5> identify operator     :  is,  is not 
+6> membership operator   :  in,  not in
