@@ -1,0 +1,7 @@
+>>>    [start : step : end]             we can do index number
+
+s='this is github'                               <<<- this is a string
+l=s[8:14]
+print(l)                                    this will print 'github' only
+
+
