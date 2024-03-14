@@ -1,7 +1,14 @@
 >>>    [start : step : end]             we can do index number
 
+// in string
+
 s='this is github'                               <<<- this is a string
 l=s[8:14]
 print(l)                                    this will print 'github' only
 
 
+// in list
+
+s=[1,2,3,4,5]
+l=s[0:3]
+print(l)                                     this will print [1,2,3]
