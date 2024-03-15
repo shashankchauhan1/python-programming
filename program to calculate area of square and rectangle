@@ -2,3 +2,10 @@
 
 s=int(input("enter side of square: "))
 print("area of square is: ",s*s)
+
+
+// program to area of rectangle
+
+l=int(input("enter length: "))
+b=int(input("enter breadth: "))
+print("area of rectangle is: ",l*b)
