@@ -1,1 +1,4 @@
+// program to calculate area of square.
 
+s=int(input("enter side of square: "))
+print("area of square is: ",s*s)
