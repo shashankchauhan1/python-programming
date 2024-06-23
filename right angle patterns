@@ -11,6 +11,7 @@ while(i<=n):
     i=i+1
 
 
+
 //2> pattern of number comes in i
 
 n=int(input("enter a number: "))
